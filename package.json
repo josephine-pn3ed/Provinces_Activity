@@ -6,7 +6,7 @@
   "dependencies": {
     "bootstrap": "^3.4.1",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "pug": "^2.0.4",
     "upper-case": "^1.1.3"
   },
